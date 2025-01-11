@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk Chang iselog
 
 ### v28.1
 
